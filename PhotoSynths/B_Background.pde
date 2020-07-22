@@ -1,8 +1,3 @@
-class Background{
- Background(){
-   
- }
- void drawBackground(){
-   
- }
+void background(){
+  //person = loadImage("
 }
