@@ -1,3 +1,7 @@
 class vid{
   
 }
+class mockImg{
+  
+  
+}
